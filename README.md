@@ -2,7 +2,7 @@
  
 <font size ="4">**_Authors:  Gene Myers**<br>
 **_First:   Mar 18, 2021_**<br>
-**_Current: Feb 18, 2021_**</font>
+**_Current: Mar 26, 2021_**</font>
 
 
 This is a stripped down version of [GenomeScope2.0](https://github.com/tbenavi1/genomescope2.0) that operates on customized
